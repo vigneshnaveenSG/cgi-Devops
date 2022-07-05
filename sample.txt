@@ -3,3 +3,6 @@ Hi this is the first file is got created
 
 
 this is the first commit from Developer 1 from mumbai location
+
+This is the first commit from Developer 2 from singapore location
+
